@@ -1,0 +1,6 @@
+{
+  "output_filename":"basic-app-0.0.1-SNAPSHOT",
+  "image_name":"tutorial",
+  "container_name": "tutorial",
+  "args":"-d -p 8080:8080"
+}
